@@ -15,5 +15,9 @@
  */
  // Custom bootstrap variables must be set or imported before bootstrap itself.
  @import "bootstrap";
+ .navbar {
+    margin-bottom: 20px;
+}
+
  //FA imported below
  @import "font-awesome";

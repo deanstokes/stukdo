@@ -62,3 +62,6 @@ end
 
 #Some icons to Use
 gem 'font-awesome-sass'
+
+#create forms with this
+gem 'simple_form', '~> 3.3', '>= 3.3.1'
